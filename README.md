@@ -3,6 +3,8 @@
 ### About  ###
 
 This example allows to receive robot waypoints via UART from the mobile beacon.
+<br />
+
 Waypoints can be sent in the dashboard:
   - right click on the robot's mobile beacon 
   - select 'Setup movement path' in the menu
